@@ -1,0 +1,10 @@
+Platform Capability,Category,Complexity,Estimated Build Days,Plan_Min,Plan_Max,Analyse_Min,Analyse_Max,Design_Min,Design_Max,Build_Min,Build_Max,UAT_Min,UAT_Max,Deploy_Min,Deploy_Max
+Voice,Voicebot - NLU,Simple,10,0.10,0.20,0.10,0.20,0.10,0.25,0.35,0.40,0.10,0.20,0.10,0.20
+Voice,Voicebot - NLU,Medium,16,0.10,0.20,0.10,0.20,0.12,0.25,0.35,0.42,0.08,0.20,0.08,0.18
+Voice,Voicebot - NLU,Complex,24,0.10,0.25,0.12,0.22,0.15,0.28,0.35,0.45,0.08,0.18,0.05,0.15
+Voice,IVR,Medium,18,0.10,0.20,0.08,0.18,0.10,0.20,0.35,0.40,0.12,0.22,0.10,0.20
+Chat,Chatbot - FAQ,Simple,8,0.08,0.18,0.08,0.18,0.12,0.22,0.35,0.40,0.15,0.25,0.07,0.15
+Chat,Agent Assist,Complex,20,0.10,0.25,0.10,0.22,0.12,0.25,0.35,0.45,0.12,0.22,0.06,0.15
+Email,Auto Triage,Simple,6,0.08,0.18,0.08,0.18,0.10,0.20,0.35,0.40,0.15,0.25,0.10,0.20
+Email,Auto Triage,Medium,10,0.08,0.20,0.08,0.20,0.12,0.22,0.35,0.42,0.12,0.22,0.08,0.18
+Social,Care Routing,Medium,12,0.10,0.20,0.10,0.20,0.10,0.20,0.35,0.42,0.10,0.20,0.10,0.20

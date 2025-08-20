@@ -153,7 +153,7 @@ df = load_fixed_excel()
 # =========================================
 # UI – selection & cart
 # =========================================
-st.title("Estimator Tool (Python • Streamlit)")
+st.title("Estimator Tool")
 st.caption("Fixed data source. Select features, set per-item quantities, tune phase allocations, add fixed 5% contingency, and export.")
 
 c1, c2, c3, c4, c5 = st.columns([1.2, 1.2, 1.0, 0.8, 0.6])
